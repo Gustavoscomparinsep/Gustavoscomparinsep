@@ -16,4 +16,4 @@ Atualmente trabalhando em projetos de ERP e controle financeiro.
 
 Sempre aprendendo e evoluindo como desenvolvedor.
 
-Como me encontrar: adicione aqui seu e-mail ou LinkedIn.
+Como me encontrar: gustavoscomparinsep@gmail.com
