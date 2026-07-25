@@ -1,23 +1,19 @@
-## Ola, eu sou o Gustavo
+## Ola! Eu sou o Gustavo
 
-Desenvolvedor em formacao, focado em construir solucoes em Python, com projetos voltados para sistemas de gestao, automacao e controle financeiro.
+Desenvolvedor focado em construir solucoes em Python, sistemas de gestao e automacao.
 
-### Sobre mim
+<img src="https://github-readme-stats.vercel.app/api?username=Gustavoscomparinsep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://streak-stats.demolab.com?user=Gustavoscomparinsep&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavoscomparinsep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 
-Atualmente trabalhando em projetos de ERP e sistemas financeiros.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+
+## Sobre mim
+
+Foco em desenvolvimento com Python, com projetos de sistemas de gestao e automacao.
+
+Atualmente trabalhando em projetos de ERP e controle financeiro.
 
 Sempre aprendendo e evoluindo como desenvolvedor.
 
-Fale comigo sobre Python, desenvolvimento web e automacao.
-
-Como me encontrar: adicione aqui seu LinkedIn, e-mail ou portfolio.
-
-### Linguagens e ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Estatisticas do GitHub
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavoscomparinsep&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavoscomparinsep)
+Como me encontrar: adicione aqui seu e-mail ou LinkedIn.
