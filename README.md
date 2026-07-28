@@ -1,19 +1,106 @@
-## Ola! Eu sou o Gustavo
+<h1 align="center">Olá, eu sou Gustavo Munhoz Scomparin 👋</h1>
 
-Desenvolvedor focado em construir solucoes em Python, sistemas de gestao e automacao.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Developer;Python+%7C+C%23+%7C+SQL;Building+Solutions+Every+Day" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gustavoscomparinsep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://streak-stats.demolab.com?user=Gustavoscomparinsep&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavoscomparinsep&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<h3 align="center">
+💻 Software Engineering Student • Backend Developer • Financial Systems
+</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+<p align="center">
+Apaixonado por tecnologia, desenvolvimento de software e automação.<br>
+Atualmente desenvolvendo sistemas financeiros, aplicações desktop e projetos utilizando Python, C#, SQL Server e tecnologias Web.
+</p>
 
-## Sobre mim
+---
 
-Foco em desenvolvimento com Python, com projetos de sistemas de gestao e automacao.
+## 🚀 Sobre mim
 
-Atualmente trabalhando em projetos de ERP e controle financeiro.
+- 🎓 Estudante de Engenharia de Software
+- 💼 Desenvolvedor Back-end
+- 🐍 Python
+- ⚙️ C# • .NET • SQL Server
+- 🌐 HTML • CSS • JavaScript
+- 📚 Sempre aprendendo novas tecnologias
+- 🇧🇷 Brasil
 
-Sempre aprendendo e evoluindo como desenvolvedor.
+---
 
-Como me encontrar: gustavoscomparinsep@gmail.com
+## 💻 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,js,html,css,react,nodejs,git,github,mysql,postgres,vscode,visualstudio"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gustavoscomparinsep&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gustavoscomparinsep&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Gustavoscomparinsep&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gustavoscomparinsep&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavoscomparinsep&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Gustavoscomparinsep&label=Visitors&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Obrigado por visitar meu perfil!</h3>
